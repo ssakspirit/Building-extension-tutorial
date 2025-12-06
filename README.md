@@ -24,10 +24,13 @@ https://minecraft.makecode.com/#tutorial:github:ssakspirit/Building-extension-tu
 
 1. 마인크래프트 Education Edition 월드 폴더로 이동:
    ```
-   %localappdata%\Packages\Microsoft.MinecraftEducationEdition_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftWorlds\[월드이름]\
+   설치 파일로 설치한 경우
+   C:\Users\사용자이름\AppData\Roaming\Minecraft Education Edition\games\com.mojang\minecraftWorlds
+   스토어 경유해서 설치한 경우
+   C:\Users\username\AppData\Local\Packages\Microsoft.MinecraftEducationEdition_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftWorlds
    ```
 
-2. `education.json` 파일을 생성하거나 수정:
+2. 월드 폴더 안에 `education.json` 파일을 생성하거나 수정:
    ```json
    {
        "codebuilder": {
