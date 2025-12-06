@@ -2,21 +2,43 @@
 
 Building Extension 사용법을 배우는 단계별 튜토리얼입니다.
 
-## 📚 튜토리얼 내용
+## 📚 튜토리얼 목록
 
+### 기본 튜토리얼 (tutorial.md)
 - ✅ 직각 건물 만들기 (ㅁ형, ㄱ형, ㄷ형)
 - ✅ 원형 건물 만들기
 - ✅ 건물 속성 설정 (크기, 재료, 창문)
 - ✅ 건물 지우기
 
-## 🎮 튜토리얼 시작 방법
-
-### 방법 1: 웹 브라우저에서 시작
-
-브라우저에서 다음 링크를 열어주세요:
+**시작하기:**
 ```
 https://minecraft.makecode.com/#tutorial:github:ssakspirit/Building-extension-tutorial/tutorial
 ```
+
+### 건물 예제 모음 (tutorial-examples.md)
+- 🏫 학교 건물
+- 🏠 작은 집
+- 🏰 성 (Castle)
+- 🗼 망루 (Tower)
+- 🏢 아파트
+- 🏪 L자형 상가
+- ⛪ 교회 (삼각 지붕)
+- 🏛️ 원형 신전 (돔형)
+- 🏙️ 현대식 빌딩
+- 🔺 피라미드
+
+**시작하기:**
+```
+https://minecraft.makecode.com/#tutorial:github:ssakspirit/Building-extension-tutorial/tutorial-examples
+```
+
+## 🎮 튜토리얼 시작 방법
+
+### 방법 1: 웹 브라우저에서 시작(이 방법은 마인크래프트와 연결되지 않습니다.)
+
+브라우저에서 원하는 튜토리얼 링크를 열어주세요:
+- 기본: `https://minecraft.makecode.com/#tutorial:github:ssakspirit/Building-extension-tutorial/tutorial`
+- 예제: `https://minecraft.makecode.com/#tutorial:github:ssakspirit/Building-extension-tutorial/tutorial-examples`
 
 ### 방법 2: education.json 파일 사용 (권장)
 
