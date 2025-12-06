@@ -59,35 +59,14 @@ https://minecraft.makecode.com/#tutorial:github:ssakspirit/Building-extension-tu
 ### 방법 4: NPC 사용
 
 1. 교육용 NPC를 배치합니다
-2. NPC 설정에서 "Advanced Settings" 활성화
-3. "Execute on first interaction" 또는 "Execute on button click"에 다음 명령어 입력:
+2. NPC 설정에서 "고급설정" 
+3. "다음 명령어 입력:
    ```
    codebuilder navigate @initiator false https://minecraft.makecode.com/#tutorial:github:ssakspirit/Building-extension-tutorial/tutorial
    ```
 4. NPC와 상호작용하면 튜토리얼이 열립니다
 
 **참고:** `@initiator`는 NPC와 상호작용한 플레이어를 의미합니다.
-
-### 방법 5: 채팅 명령어 사용 (권한 필요)
-
-오퍼레이터 권한이 있는 경우, 채팅창에서 직접 입력:
-```
-/codebuilder navigate @s false https://minecraft.makecode.com/#tutorial:github:ssakspirit/Building-extension-tutorial/tutorial
-```
-
-## 🏗️ 튜토리얼에서 배우는 명령어
-
-튜토리얼을 완료하면 다음 채팅 명령어로 건물을 만들 수 있습니다:
-
-| 명령어 | 기능 |
-|--------|------|
-| `1` | 작은 건물 만들기 (10x10, ㅁ형) |
-| `2` | 큰 건물 만들기 (20x15, ㅁ형) |
-| `0` | 직각 건물 지우기 |
-| `3` | 원형 건물 만들기 (반지름 8) |
-| `00` | 원형 건물 지우기 |
-
-## 📖 Building Extension 정보
 
 이 튜토리얼은 [Building Extension](https://github.com/ssakspirit/Building-extension)을 사용합니다.
 
@@ -113,10 +92,8 @@ Building Extension의 모든 기능:
 - 커맨드 블록이 활성화되어 있는지 확인하세요
 - 레드스톤 신호가 제대로 전달되는지 확인하세요
 
-## 📝 라이센스
-
-MIT License
-
 ## 🤝 기여
 
 이슈나 개선 사항이 있다면 GitHub에 이슈를 등록해주세요!
+
+이 확장과 튜토리얼은 스티브코딩이 제작 및 배포합니다. 
